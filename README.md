@@ -1,10 +1,7 @@
 - 👋 Hi, I’m Taiyo 
 Username @tkhuth
-- 👀 I’m interested in coding,gaming, movies and music
+- 👀 I’m interested in coding and gaming.This make me have an interest in becoming Software and Game Dev.
 - 🌱 I’m currently majoring in Computer Science
 - 📫 How to reach me : via email; khuthtaiyo@gmail.com
 
-<!---
-tkhuth/tkhuth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
