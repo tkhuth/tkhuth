@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Taiyo 
 Username @tkhuth
-- 👀 I’m interested in gaming, movies and music
+- 👀 I’m interested in coding,gaming, movies and music
 - 🌱 I’m currently majoring in Computer Science
 - 📫 How to reach me : via email; khuthtaiyo@gmail.com
 
